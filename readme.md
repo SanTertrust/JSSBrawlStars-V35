@@ -2,7 +2,7 @@
 aka JavaScript Server Brawl Stars version 35
 
 ## DO NOT USE IT IF YOU ARE NOT A **CODER**.
-## THIS SERVER IS KINDA **UNFINISHED**. (so yeah, kids who just steal servers from github, change two lines of the entire code and do it under their own authorship cannot use this server :sob:)
+## THIS SERVER IS KINDA **UNFINISHED**. (so yeah, kids who just steal servers from github, changes two lines of the entire code and do it under their own authorship cannot use this server :sob:)
 
 ## - INFO
 
