@@ -9,7 +9,7 @@ aka JavaScript Server Brawl Stars version 35
 #### just a bad brawl stars server, created in javascript,  with (maybe) my shitty code and designed for you to finish it yourself.
 #### working by [node brawl core](https://github.com/tailsjs/nodebrawl-core). author is [this awesome guy](https://github.com/tailsjs)
 
-#### change IP in client and/or server if needed
+#### change IP in client and server if needed
 
 #### in the terminal, enter
 ```bash
